@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/tanishq-cloud/tanishq-cloud/assets/117560477/ed18fbd5-ccda-41b1-ba8b-28639fe1ac92)
+![github-header-image](https://github.com/tanishq-cloud/tanishq-cloud/assets/117560477/4a947329-c32f-4081-aed7-86df48a14424)
+
 # 💫 About Me:
 - 🎓 3rd year B.Tech student, pursuing DSAI at IcfaiTech Hyderabad
 - 💻 Proficient in MERN stack, web development (JavaScript), Java
